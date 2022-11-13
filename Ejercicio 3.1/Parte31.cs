@@ -2,7 +2,7 @@
 using System.Text;
 
 
-Ejemplo 3.1
+
 namespace ejercicio 3.1
 {
     public class class
