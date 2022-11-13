@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ejercicio44
 {
-    public class case
+    public class clase
     {
         public static int Main(object suma)
         {
