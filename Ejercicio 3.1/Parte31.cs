@@ -3,7 +3,7 @@ using System.Text;
 
 
 
-namespace ejercicio 31
+namespace ejercicio31
 {
     public class class
     {
