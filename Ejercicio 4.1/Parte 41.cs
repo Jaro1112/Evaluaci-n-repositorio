@@ -2,9 +2,9 @@
 using System.Text;
 
 
-namespace ejercicio_41
+namespace ejercicio44
 {
-    public class program
+    public class case
     {
         public static int Main(object suma)
         {
