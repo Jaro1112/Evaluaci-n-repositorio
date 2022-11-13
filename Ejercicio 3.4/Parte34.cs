@@ -2,9 +2,9 @@
 using System.Text;
 
 
-namespace Ejercicio3.4
+namespace Ejercicio34
 {
-    class program
+    class case
     {
         static void Main()
         {
