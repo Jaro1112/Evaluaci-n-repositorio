@@ -2,7 +2,7 @@
 using System.Text;
 
 
-namespace Ejercicio3.3
+namespace Ejercicio33
 {
     class ejercicio
     {
