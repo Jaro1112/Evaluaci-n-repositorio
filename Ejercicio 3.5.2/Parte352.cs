@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Ejercicio352
 {
-    class Coloquennombrependejos
+    class clase
     {
         public static void Main(string[] args)
         {
